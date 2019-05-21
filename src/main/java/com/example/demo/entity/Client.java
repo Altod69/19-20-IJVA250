@@ -2,7 +2,6 @@ package com.example.demo.entity;
 
 import javax.persistence.*;
 import java.time.LocalDate;
-import java.util.Set;
 
 /**
  * Created by Alexandre on 09/04/2018.
